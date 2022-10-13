@@ -1,27 +1,27 @@
 export const config = {
     // 公众号配置
     // 公众号appId
-    appId: "wxc93158bacb37c180",
+    appId: "wxe192d6d8385c226a",
     // 公众号appSecret
-    appSecret: "8166ccc94171205acc61d79daf86d08b",
+    appSecret: "e76e0c5ca1d6a868b7eb5fa6c0eb5852",
     // 模板消息id
-    templateId: "xvG5n3a5G8GETg4jKalnonM_jzTo2kOvJdXMgRdikwU",
+    templateId: "P9b3G_jXW26r7DUmmRuOwKpDfiER4k48_nfC1n5PsbA",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-    user: ["oKMUE5wRy-yGT4pYhh3J2o-8F7rw","oKMUE5_d2TL5BYpWZiXM1dPLP6LA"],
+    user: ["obiK852weaduIy95o8uciNID5wPA","obiK8584FzaTwsHlA0kGdtTifd6Y"],
      
     // 信息配置
     ewai: "   ",
     // 所在省份
-    province: "广西",
+    province: "河南",
     // 所在城市
-    city: "桂林",
+    city: "郑州",
     // 生日，修改名字为对应需要显示的名字，如果生日为农历， type为 r
     birthdays: [
-      {"name": "曾曾", "year": "1998", "date": "06-02", "type": 'new'},
-      {"name": "哥哥", "year": "1996", "date": "01-07", "type": 'new'},
+      {"name": "李选", "year": "2003", "date": "08-22", "type": 'new'},
+      {"name": "李选", "year": "2003", "date": "08-22", "type": 'new'},
     ],
     // 在一起的日子，格式同上
-    loveDate: "2016-11-05",
+    loveDate: "2022-09-21",
     // 结婚纪念日
     
     }
